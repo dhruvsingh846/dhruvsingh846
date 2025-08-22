@@ -25,7 +25,7 @@ Results-driven and highly skilled Chief Executive Officer (CEO) and Chief Techno
 - Effectively communicated information security goals to department managers.
 
 ### FUSTIS LLC - Chief Information Security Officer
-- January 2023 - Present (1 year 4 months)
+- January 2023 - April 2024 (1 year 4 months)
 - Established a global security program across 25 countries, adopting the NIST Cyber Security Framework.
 - Conducted enterprise security risk assessments and initiated risk mitigation strategies.
 - Forged strategic partnerships with vendors, resulting in significant cost savings.
