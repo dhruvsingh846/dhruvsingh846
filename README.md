@@ -16,7 +16,7 @@ Results-driven and highly skilled Chief Technology Officer (CTO) and Chief Infor
 ## Professional Experience
 
 ### DECRYPTON - Chief Technology Officer | CISO | CIAP | CISSP | GRC
-- April 2022 - Present (3 years)
+- April 2022 - Present (3 years 4 Months)
 - Aligned security standards with business and technology strategies for enhanced data protection.
 - Collaborated with CISO and technology leaders on financial planning and analysis.
 - Monitored end-to-end execution of information security and IT projects, ensuring organizational goals.
@@ -25,7 +25,7 @@ Results-driven and highly skilled Chief Technology Officer (CTO) and Chief Infor
 - Effectively communicated information security goals to department managers.
 
 ### FUSTIS LLC - Chief Information Security Officer
-- January 2023 - Present (7 months)
+- January 2023 - Present (1 year 4 months)
 - Established a global security program across 25 countries, adopting the NIST Cyber Security Framework.
 - Conducted enterprise security risk assessments and initiated risk mitigation strategies.
 - Forged strategic partnerships with vendors, resulting in significant cost savings.
