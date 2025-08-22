@@ -2,7 +2,7 @@
 
 ## Prateek Singh
 
-### Chief Technology Officer | Chief Information Security Officer (CISO)
+### Chief Executive Officer | Chief Technology Officer 
 
 #### Albuquerque, New Mexico, United States
 
