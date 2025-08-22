@@ -15,7 +15,7 @@ Results-driven and highly skilled Chief Executive Officer (CEO) and Chief Techno
 
 ## Professional Experience
 
-### DECRYPTON - Chief Technology Officer | CISO | CIAP | CISSP | GRC
+### DECRYPTON - Chief Executive Officer | CTO | CIAP | CISSP | GRC
 - April 2022 - Present (3 years 4 Months)
 - Aligned security standards with business and technology strategies for enhanced data protection.
 - Collaborated with CISO and technology leaders on financial planning and analysis.
