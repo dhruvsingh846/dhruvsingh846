@@ -11,7 +11,7 @@
 
 ## About Me
 
-Results-driven and highly skilled Chief Technology Officer (CTO) and Chief Information Security Officer (CISO) with over 9 years of experience in designing and implementing robust cybersecurity strategies. Proven track record of leading global teams, ensuring data protection, and driving innovation. Seeking an opportunity to leverage my expertise to strengthen cybersecurity defenses and safeguard critical assets.
+Results-driven and highly skilled Chief Executive Officer (CEO) and Chief Technology Officer (CTO) with over 9 years of experience in designing and implementing robust cybersecurity strategies. Proven track record of leading global teams, ensuring data protection, and driving innovation. Seeking an opportunity to leverage my expertise to strengthen cybersecurity defenses and safeguard critical assets.
 
 ## Professional Experience
 
